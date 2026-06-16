@@ -1,2 +1,28 @@
-# bf3df066-ai-agents-automation-client
-Tracks every client interaction, deal stage, and revenue metric in one dashboard. All-in-one replaces 3-4 separate tools.
+# AI Agents & Automation Client CRM and Pipeline Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmdR9fXx8Is3lm33md071J)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmdR9fXx8Is3lm33md071J)
+
